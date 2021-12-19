@@ -2,16 +2,14 @@
 
 # Hi there, Welcome here! I'm Anthony 👋
 
-- 🤖 I am a great enthusiast web developer!
-- 🤓 I’m currently working on develop my skills. 
-- 🌱 I’m currently learning everything ...   
-- 🤝 I’m looking to collaborate with other developers on many projects !
-- 💬 Ask me about all subject, let's talk ! 
+- 🤖 I am a great enthusiastic web developer!
+- 🤓 I’m currently working on developing my skills. 
+- 🤝 I’m looking to collaborate with other developers on new projects !
+- 💬 Ask me about anything, let's talk ! 
 
 
 ### Connect with me:
 
-[<img align="left" alt="AnthonyLebro | Portfolio" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 
 [<img align="left" alt="AnthonyLebro | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -30,11 +28,10 @@
 <img align="left" alt="RoR" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
 <img align="left" alt="postgresql" height="24px" src="https://camo.githubusercontent.com/c2b5df85d62eededa87a5dbb4f89e3ab44a61ae0dd55b9eb6dd7e785a8c20458/68747470733a2f2f7777772e656e746572707269736564622e636f6d2f73697465732f64656661756c742f66696c65732f6c6f676f2d706f737467726573716c2d373030783530302e706e67" />
 <img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />   
 <br/>
 
 
-[portfolio]: https:///
+
 [linkedin]: https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB-%F0%9F%98%84-anthony-charron-965300214/
 
